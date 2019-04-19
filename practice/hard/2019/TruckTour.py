@@ -7,9 +7,6 @@ Difficulty: Hard
 """
 
 
-# !/bin/python3
-
-
 def truck_tour(petrol_pumps):
     """
     Calculates the first point from where the truck will be able to complete
